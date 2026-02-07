@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Features:
+- Add / Delete Tasks
+- Swipe to delete with Undo
+- Dark / Light theme toggle
+- Date reminder selection
 
 ![img.png](img.png)
 ## Getting Started
